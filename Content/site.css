@@ -1,0 +1,34 @@
+body{
+    background-color: #eff3f6;   
+    font: 16px 'Courier New', monospace;
+    margin-top: 30px;
+}
+
+.main{
+    margin: 0 auto;
+    width: 400px;
+}
+
+.name-container{
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+.links-container{
+    text-align: center;
+    width: 100%;
+}
+
+.links-container:hover a{
+    color: rgba(47, 54, 61, 0.50);
+}
+
+.links-container a{
+    text-decoration: none;
+    color:#1f1f1f;   
+}
+
+.links-container a:hover{
+    color: #1f1f1f;
+}
